@@ -9,7 +9,8 @@ Macroservice is a traditional architecture used to encapsulate a capability with
 But there are some issues with macroservice. One is you must test and run the entire application to make changes to the services. 
 Second, you have to scale the entire project to scale the service.
 
-Is there an easier way to scale and make changes to an application without testing and running the entire program? That’s where microservices come in.
+Is there an easier way to scale and make changes to an application without testing and running the entire program? 
+That’s where microservices come in.
 Microservice is a physically independent and tightly scoped application that helps support extreme agility and scalability requirements. 
 Microservice allows a business to create and send out new features without resending the entire application. 
 It allows businesses to work on individual features without disturbing another. 
