@@ -1,0 +1,39 @@
+
+Microservice? 
+
+
+Microservice architecture should you make the switch? 
+First, what is it and why is it important for businesses?
+When writing an application most services will use an architecture called macroservice. 
+Macroservice is a traditional architecture used to encapsulate a capability within the application and produces that capability when it is published. 
+But there are some issues with macroservice. One is you must test and run the entire application to make changes to the services. 
+Second, you have to scale the entire project to scale the service.
+
+Is there an easier way to scale and make changes to an application without testing and running the entire program? That’s where microservices come in.
+Microservice is a physically independent and tightly scoped application that helps support extreme agility and scalability requirements. 
+Microservice allows a business to create and send out new features without resending the entire application. 
+It allows businesses to work on individual features without disturbing another. 
+These services are independent of one another which allows the development of new features to come out as soon as they are ready.
+
+What are some key components of microservice? 
+Agility, scalability, and flexibility. Now, what do we mean when we talk about these components. 
+Agility allows the business to send out new features quickly and efficiently. 
+Scalability allows the development team to fix bugs and issues easily by specifically fixing the parts that were causing the issue. 
+Flexibility allows the teams to use different technologies and languages at different parts and stages of the application.
+
+How to know if microservice is right for you? 
+Determining whether microservice is right for your software is based on the key components as before.
+Do you have applications that go with microservice’s extreme agility or stability? 
+Microservices have a disruptive impact in nature. Are you willing to find highly skilled application architects who can adopt the new application? 
+Is your company ready to go against tradition when you are doing analytics and data management? Are you willing to invest in your time, people, and processes?
+If not, that ok too.
+
+Microservices is not for everyone. 
+Many services mix architectures to fulfill their needs. 
+You can combine microservice with all different kinds of services. 
+Miniservice is similar to microservice but it typically implements more than one feature. 
+Continuous delivery, a software delivery that allows the production of new features incrementally, can be used with Microservice. 
+Microservice can even be combined with macroservice to fit the needs of a service.
+
+Microservice is a useful architecture that is new and up incoming. Our services and needs are always changing.
+Now, will you make the change? 
